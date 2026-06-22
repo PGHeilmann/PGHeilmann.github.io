@@ -140,8 +140,6 @@ title: Home
 
       <p>
         Email: philipp.g.heilmann[at]agrar.uni-giessen.de<br>
-        Phone: +49 641 99 37543<br>
-        Office: IFZ Room B209
       </p>
     </section>
 
