@@ -130,16 +130,26 @@ title: Home
     </section>
 
     <section id="contact">
-      <h2>Contact</h2>
-
+      <h2>Want to get in touch?</h2>
+    
       <p>
+        Contact me by email or connect with me on LinkedIn.
+      </p>
+    
+      <div class="contact-buttons">
+        <a class="contact-button" href="mailto:philipp.g.heilmann@agrar.uni-giessen.de">
+          Email
+        </a>
+    
+        <a class="contact-button" href="https://de.linkedin.com/in/philipp-heilmann-giessen/en" target="_blank" rel="noopener noreferrer">
+          LinkedIn
+        </a>
+      </div>
+    
+      <p class="contact-details">
         Institute of Agronomy and Plant Breeding II<br>
         Biometry and Population Genetics<br>
         Justus Liebig University Giessen
-      </p>
-
-      <p>
-        Email: philipp.g.heilmann[at]agrar.uni-giessen.de<br>
       </p>
     </section>
 
