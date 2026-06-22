@@ -110,13 +110,11 @@ body {
 section {
   max-width: 920px;
   padding: 5rem 5rem;
-  display: block;
 }
 
 section h2 {
   margin: 0 0 1.5rem;
   font-size: 2.4rem;
-  line-height: 1.15;
   color: var(--sidebar-blue);
 }
 
@@ -124,7 +122,6 @@ section p {
   max-width: 720px;
   margin: 0;
   font-size: 1.08rem;
-  color: var(--text-main);
 }
 
 @media (max-width: 800px) {
