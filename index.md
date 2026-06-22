@@ -136,15 +136,21 @@ title: Home
         Contact me by email or connect with me on LinkedIn.
       </p>
     
-      <div class="contact-buttons">
-        <a class="contact-button" href="mailto:philipp.g.heilmann@agrar.uni-giessen.de">
-          Email
-        </a>
+    <div class="contact-buttons">
+      <a class="contact-button" href="mailto:philipp.g.heilmann@agrar.uni-giessen.de" aria-label="Send email to Philipp Heilmann">
+        <svg class="contact-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M3 5h18v14H3V5zm2 2v.4l7 4.6 7-4.6V7H5zm14 10V9.8l-7 4.6-7-4.6V17h14z"/>
+        </svg>
+        <span>Email</span>
+      </a>
     
-        <a class="contact-button" href="https://de.linkedin.com/in/philipp-heilmann-giessen/en" target="_blank" rel="noopener noreferrer">
-          LinkedIn
-        </a>
-      </div>
+      <a class="contact-button" href="https://de.linkedin.com/in/philipp-heilmann-giessen/en" target="_blank" rel="noopener noreferrer" aria-label="Open Philipp Heilmann on LinkedIn">
+        <svg class="contact-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M4.98 3.5C4.98 4.88 3.86 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.5 8h4V24h-4V8zm7.5 0h3.8v2.2h.1c.5-1 1.9-2.4 4-2.4 4.3 0 5.1 2.8 5.1 6.5V24h-4v-8.6c0-2.1 0-4.7-2.9-4.7s-3.3 2.2-3.3 4.5V24h-4V8z"/>
+        </svg>
+        <span>LinkedIn</span>
+      </a>
+    </div>
     
       <p class="contact-details">
         Institute of Agronomy and Plant Breeding II<br>
