@@ -174,8 +174,9 @@ section p {
 .contact-button {
   display: inline-flex;
   align-items: center;
+  gap: 0.65rem;
   justify-content: center;
-  min-width: 130px;
+  min-width: 140px;
   padding: 0.85rem 1.25rem;
   border-radius: 999px;
   background: var(--sidebar-blue);
@@ -188,6 +189,13 @@ section p {
 .contact-button:hover {
   opacity: 0.85;
   transform: translateY(-1px);
+}
+
+.contact-icon {
+  width: 1.15rem;
+  height: 1.15rem;
+  fill: currentColor;
+  flex-shrink: 0;
 }
 
 .contact-details {
