@@ -91,15 +91,17 @@ title: Home
     
       <h3>Award</h3>
       <p>
-        21st Kurt von Rümker Prize, awarded by the GPZ to an early-career researcher
-        for the best PhD presentation.
+        Recipient of the 21st Kurt von Rümker Prize, awarded by the German Society for
+        Plant Breeding (Gesellschaft für Pflanzenzüchtung e.V., GPZ). The prize recognizes
+        the best PhD presentation by an early-career scientist in the field of plant
+        breeding.
         <a href="https://www.julius-kuehn.de/aktuelles/aktuell/n/8-quedlinburger-pflanzenzuechtungstage-mit-21-kurt-von-ruemker-vortraegen-inklusive-preis-fuer-den-besten-vortrag-eines-nachwuchsforschenden" target="_blank" rel="noopener noreferrer">(Link)</a>
       </p>
     </section>
-
+    
     <section id="publications">
       <h2>Publications</h2>
-
+    
       <div class="publication">
         <p>
           <strong>Heilmann PG</strong>, Grosch E, Frisch M, Herrmann M, Beuch S,
@@ -108,10 +110,12 @@ title: Home
           Zenke-Philippi C (2025).
           Haplotype-based autoencoders can reduce the dataset dimension and estimate
           haplotype block effects in different crop species.
-          <em>BMC Bioinformatics</em> 26:289.
+          <a href="https://link.springer.com/article/10.1186/s12859-025-06323-w" target="_blank" rel="noopener noreferrer">
+            <em>BMC Bioinformatics</em> 26:289.
+          </a>
         </p>
       </div>
-
+    
       <div class="publication">
         <p>
           <strong>Heilmann PG</strong>, Difabachew YF, Frisch M, Moritz AL, Stahl A,
@@ -119,16 +123,20 @@ title: Home
           Zenke-Philippi C (2024).
           Machine learning for prediction of resistance scores in wheat
           (<em>Triticum aestivum</em> L.).
-          <em>Plant Breeding</em> 144:192–205.
+          <a href="https://doi.org/10.1111/pbr.13261" target="_blank" rel="noopener noreferrer">
+            <em>Plant Breeding</em> 144:192–205.
+          </a>
         </p>
       </div>
-
+    
       <div class="publication">
         <p>
           <strong>Heilmann PG</strong>, Frisch M, Abbadi A, Kox T, Herzog E (2023).
           Stacked ensembles on basis of parentage information can predict hybrid
           performance with an accuracy comparable to marker-based GBLUP.
-          <em>Frontiers in Plant Science</em> 14:1178902.
+          <a href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1178902/full" target="_blank" rel="noopener noreferrer">
+            <em>Frontiers in Plant Science</em> 14:1178902.
+          </a>
         </p>
       </div>
     </section>
