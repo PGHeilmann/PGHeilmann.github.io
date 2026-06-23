@@ -319,3 +319,100 @@ section p + p {
   font-size: 0.78rem;
   font-weight: 700;
 }
+
+/* Mobile layout */
+
+@media (max-width: 800px) {
+  .page {
+    display: block;
+  }
+
+  .sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: auto;
+    padding: 2rem 1.5rem;
+  }
+
+  .profile {
+    margin-bottom: 1.75rem;
+    text-align: center;
+  }
+
+  .profile-picture {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 1.25rem;
+  }
+
+  .profile h1 {
+    font-size: 1.6rem;
+  }
+
+  .profile p {
+    font-size: 0.9rem;
+  }
+
+  .section-nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  .section-nav a {
+    border-bottom: none;
+    padding: 0.45rem 0.75rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.15);
+    font-size: 0.9rem;
+  }
+
+  .content {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  section {
+    max-width: none;
+    padding: 3.5rem 1.5rem;
+  }
+
+  section h2 {
+    font-size: 2rem;
+  }
+
+  section h3 {
+    font-size: 1.25rem;
+  }
+
+  section p {
+    max-width: none;
+    font-size: 1rem;
+  }
+
+  .timeline-item {
+    grid-template-columns: 1fr;
+    row-gap: 0.35rem;
+  }
+
+  .timeline-year {
+    font-size: 0.95rem;
+  }
+
+  .conference-item {
+    grid-template-columns: 1fr;
+    row-gap: 0.35rem;
+  }
+
+  .contact-buttons {
+    gap: 0.6rem;
+  }
+
+  .contact-button {
+    padding: 0.45rem 0.7rem;
+    font-size: 0.9rem;
+  }
+}
