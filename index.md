@@ -127,7 +127,7 @@ title: Home
           Zenke-Philippi C (2024).
           Machine learning for prediction of resistance scores in wheat
           (<em>Triticum aestivum</em> L.).
-          <a href="https://doi.org/10.1111/pbr.13261" target="_blank" rel="noopener noreferrer">
+          <a href="https://onlinelibrary.wiley.com/doi/10.1111/pbr.13235" target="_blank" rel="noopener noreferrer">
             <em>Plant Breeding</em> 144:192–205.
           </a>
         </p>
