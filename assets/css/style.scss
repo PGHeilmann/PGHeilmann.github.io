@@ -202,3 +202,33 @@ section p {
   margin-top: 2rem;
   color: var(--text-muted);
 }
+
+.timeline {
+  display: grid;
+  gap: 1.8rem;
+  margin: 1.75rem 0 2.75rem;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  padding-bottom: 1.4rem;
+  border-bottom: 1px solid rgba(0, 105, 179, 0.14);
+}
+
+.timeline-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.timeline-year {
+  font-weight: 700;
+  color: var(--sidebar-blue);
+}
+
+.timeline-text {
+  color: var(--text-main);
+  line-height: 1.55;
+}
