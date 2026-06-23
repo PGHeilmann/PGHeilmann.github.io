@@ -48,37 +48,48 @@ title: Home
       </p>
     </section>
 
-    <section id="education">
-      <h2>Education</h2>
+<section id="academic-career">
+  <h2>Academic career</h2>
 
-      <div class="timeline">
-        <div class="timeline-item">
-          <span class="timeline-year">2025–2027</span>
-          <span class="timeline-text">Postdoctoral Researcher</span>
-        </div>
+  <div class="timeline">
+    <div class="timeline-item">
+      <span class="timeline-year">2025–2027</span>
+      <span class="timeline-text">
+        <strong>Postdoctoral Research Associate</strong><br>
+        Institute of Agronomy and Plant Breeding II, Justus Liebig University Giessen
+      </span>
+    </div>
 
-        <div class="timeline-item">
-          <span class="timeline-year">2019–2025</span>
-          <span class="timeline-text">PhD Student</span>
-        </div>
+    <div class="timeline-item">
+      <span class="timeline-year">2019–2025</span>
+      <span class="timeline-text">
+        <strong>Doctoral Researcher</strong><br>
+        Justus Liebig University Giessen
+      </span>
+    </div>
 
-        <div class="timeline-item">
-          <span class="timeline-year">2016–2019</span>
-          <span class="timeline-text">M.Sc. Environmental Science</span>
-        </div>
+    <div class="timeline-item">
+      <span class="timeline-year">2016–2019</span>
+      <span class="timeline-text">
+        <strong>M.Sc. Environmental Science</strong><br>
+        Justus Liebig University Giessen
+      </span>
+    </div>
 
-        <div class="timeline-item">
-          <span class="timeline-year">2012–2016</span>
-          <span class="timeline-text">B.Sc. Environmental Management</span>
-        </div>
-      </div>
+    <div class="timeline-item">
+      <span class="timeline-year">2012–2016</span>
+      <span class="timeline-text">
+        <strong>B.Sc. Environmental Management</strong>
+      </span>
+    </div>
+  </div>
 
-      <h3>Awards</h3>
-      <p>
-        21st Kurt von Rümker Prize, awarded by the GPZ to an early-career researcher
-        for the best PhD presentation.
-      </p>
-    </section>
+  <h3>Award</h3>
+  <p>
+    21st Kurt von Rümker Prize, awarded by the GPZ to an early-career researcher
+    for the best PhD presentation.
+  </p>
+</section>
 
     <section id="publications">
       <h2>Publications</h2>
