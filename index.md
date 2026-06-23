@@ -56,7 +56,7 @@ title: Home
           <span class="timeline-year">2025–2027</span>
           <span class="timeline-text">
             <strong>Postdoctoral Research Associate</strong><br>
-            Institute of Agronomy and Plant Breeding II<br>
+            Department of Biometry and Population Genetics<br>
             Justus Liebig University Giessen
           </span>
         </div>
@@ -65,7 +65,7 @@ title: Home
           <span class="timeline-year">2019–2025</span>
           <span class="timeline-text">
             <strong>Doctoral Researcher</strong><br>
-            Institute of Agronomy and Plant Breeding II<br>
+            Department of Biometry and Population Genetics<br>
             Justus Liebig University Giessen
           </span>
         </div>
@@ -74,8 +74,10 @@ title: Home
           <span class="timeline-year">2016–2019</span>
           <span class="timeline-text">
             <strong>M.Sc. Environmental Science</strong><br>
-            Institute of Agronomy and Plant Breeding II<br>
-            Justus Liebig University Giessen
+            Justus Liebig University Giessen<br>
+            <span class="timeline-note">
+              Master’s thesis conducted at the Department of Biometry and Population Genetics
+            </span>
           </span>
         </div>
     
@@ -83,8 +85,10 @@ title: Home
           <span class="timeline-year">2012–2016</span>
           <span class="timeline-text">
             <strong>B.Sc. Environmental Management</strong><br>
-            Institute for Landscape Ecology and Resources Management<br>
-            Justus Liebig University Giessen
+            Justus Liebig University Giessen<br>
+            <span class="timeline-note">
+              Bachelor’s thesis conducted at the Chair of Landscape Ecology and Landscape Planning
+            </span>
           </span>
         </div>
       </div>
