@@ -157,23 +157,26 @@ a:hover {
 /* Timeline */
 
 .timeline {
-  display: grid;
-  gap: 2rem;
-  margin: 1.75rem 0 2.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 2rem 0 3rem;
 }
 
 .timeline-item {
   display: grid;
   grid-template-columns: 120px minmax(0, 1fr);
-  gap: 1.5rem;
+  column-gap: 1.5rem;
   align-items: start;
-  padding-bottom: 1.6rem;
-  border-bottom: 1px solid var(--border-soft);
+  padding: 0 0 1.8rem 0;
+  margin: 0 0 1.8rem 0;
+  border-bottom: 1px solid rgba(0, 105, 179, 0.14);
 }
 
 .timeline-item:last-child {
-  border-bottom: none;
+  margin-bottom: 0;
   padding-bottom: 0;
+  border-bottom: none;
 }
 
 .timeline-year {
@@ -182,6 +185,7 @@ a:hover {
 }
 
 .timeline-text {
+  display: block;
   color: var(--text-main);
   line-height: 1.6;
 }
@@ -189,12 +193,17 @@ a:hover {
 /* Publications */
 
 .publication {
+  display: block;
   max-width: 780px;
-  margin-bottom: 2.75rem;
+  padding-bottom: 2.4rem;
+  margin-bottom: 2.4rem;
+  border-bottom: 1px solid rgba(0, 105, 179, 0.10);
 }
 
 .publication:last-child {
+  padding-bottom: 0;
   margin-bottom: 0;
+  border-bottom: none;
 }
 
 .publication p {
@@ -203,90 +212,8 @@ a:hover {
   line-height: 1.65;
 }
 
-/* Contact */
+/* General paragraph spacing */
 
-.contact-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin: 2rem 0;
-}
-
-.contact-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.65rem;
-  justify-content: center;
-  min-width: 140px;
-  padding: 0.85rem 1.25rem;
-  border-radius: 999px;
-  background: var(--sidebar-blue);
-  color: #ffffff;
-  text-decoration: none;
-  font-weight: 700;
-  transition: transform 0.15s ease, opacity 0.15s ease;
-}
-
-.contact-button:hover {
-  opacity: 0.85;
-  transform: translateY(-1px);
-}
-
-.contact-icon {
-  width: 1.15rem;
-  height: 1.15rem;
-  fill: currentColor;
-  flex-shrink: 0;
-}
-
-.contact-details {
-  margin-top: 2rem;
-  color: var(--text-muted);
-}
-
-/* Mobile layout */
-
-@media (max-width: 800px) {
-  .page {
-    display: block;
-  }
-
-  .sidebar {
-    position: relative;
-    width: 100%;
-    height: auto;
-    padding: 2rem;
-  }
-
-  .profile {
-    margin-bottom: 2rem;
-  }
-
-  .profile-picture {
-    width: 115px;
-    height: 115px;
-  }
-
-  .section-nav {
-    gap: 0.25rem;
-  }
-
-  .content {
-    margin-left: 0;
-    width: 100%;
-  }
-
-  section {
-    max-width: none;
-    padding: 4rem 2rem;
-  }
-
-  section h2 {
-    font-size: 2rem;
-  }
-
-  .timeline-item {
-    grid-template-columns: 1fr;
-    gap: 0.35rem;
-  }
+section p + p {
+  margin-top: 1.15rem;
 }
