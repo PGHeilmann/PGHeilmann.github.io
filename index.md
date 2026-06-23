@@ -145,18 +145,79 @@ title: Home
       </div>
     </section>
 
-    <section id="conference-contributions">
-      <h2>Conference contributions</h2>
-      <p>
-        Placeholder for conference talks, posters, workshops, and invited
-        presentations.
-      </p>
+<section id="conference-contributions">
+  <h2>Conference contributions</h2>
 
-      <p>
-        Add entries here in the same style as the publications section, for example:
-        author list, year, title, conference name, location, and contribution type.
-      </p>
-    </section>
+  <p class="section-intro">
+    Selected conference talks and posters. O = oral presentation, P = poster.
+  </p>
+
+  <div class="conference-list">
+    <div class="conference-item">
+      <span class="conference-date">05/2026</span>
+      <span class="conference-text">
+        <strong>Haplotype-based Autoencoders for Dimensionality Reduction and Haplotype Block Effect Estimation</strong><br>
+        4th International Wheat Congress, Bologna, Italy <span class="presentation-type">P</span>
+      </span>
+    </div>
+
+    <div class="conference-item">
+      <span class="conference-date">05/2026</span>
+      <span class="conference-text">
+        <strong>Machine Learning Approaches to Environment-Specific Breeding</strong><br>
+        3rd Summer Meeting of the German Federation for Plant Innovation, Osnabrück, Germany <span class="presentation-type">O</span>
+      </span>
+    </div>
+
+    <div class="conference-item">
+      <span class="conference-date">04/2026</span>
+      <span class="conference-text">
+        <strong>MultiResistGS: Combination of Septoria, Fusarium, and DTR Resistances in Elite Wheat by Genomic Selection</strong><br>
+        proWeizen Conference 2026, Quedlinburg, Germany <span class="presentation-type">O</span>
+      </span>
+    </div>
+
+    <div class="conference-item">
+      <span class="conference-date">12/2025</span>
+      <span class="conference-text">
+        <strong>Predictive Modelling with Machine Learning in Plant Breeding</strong><br>
+        21st Kurt von Rümker Prize / 8th Quedlinburg Plant Breeding Days, Quedlinburg, Germany <span class="presentation-type">O</span>
+      </span>
+    </div>
+
+    <div class="conference-item">
+      <span class="conference-date">10/2025</span>
+      <span class="conference-text">
+        <strong>Future Perspectives for Genomic Prediction in Plant Breeding</strong><br>
+        Intelligence Artificielle, Biotechnologies &amp; Agriculture, Paris, France, invited presentation <span class="presentation-type">O</span>
+      </span>
+    </div>
+
+    <div class="conference-item">
+      <span class="conference-date">06/2025</span>
+      <span class="conference-text">
+        <strong>Haplotype Block-Based Autoencoders for Dimensionality Reduction and Genomic Prediction</strong><br>
+        17th Australasian Plant Breeding Conference, Perth, Australia <span class="presentation-type">O</span>
+      </span>
+    </div>
+
+    <div class="conference-item">
+      <span class="conference-date">10/2024</span>
+      <span class="conference-text">
+        <strong>Feature Crafting: Possibilities of Data Transformation for Predictive Models</strong><br>
+        11th International Congress “Life Sciences Today for Tomorrow”, Iași, Romania <span class="presentation-type">O</span>
+      </span>
+    </div>
+
+    <div class="conference-item">
+      <span class="conference-date">03/2024</span>
+      <span class="conference-text">
+        <strong>Haplotype-based Autoencoders for Dimensionality Reduction</strong><br>
+        German Plant Breeding Conference 2024, Geisenheim, Germany <span class="presentation-type">P</span>
+      </span>
+    </div>
+  </div>
+</section>
 
     <section id="contact">
       <h2>Want to get in touch?</h2>
