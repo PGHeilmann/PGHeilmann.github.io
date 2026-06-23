@@ -50,7 +50,15 @@ title: Home
 
     <section id="academic-career">
       <h2>Academic career</h2>
-    
+
+      <p>
+    During my doctoral and postdoctoral work, I have contributed to Bachelor’s and
+    Master’s teaching in population genetics, applied statistics, and biostatistics.
+    This included lectures and tutorials in German and English on R programming,
+    statistical modelling, experimental design, genome-wide association studies,
+    and multivariate data analysis.
+      </p>
+
       <div class="timeline">
         <div class="timeline-item">
           <span class="timeline-year">2025–2027</span>
@@ -220,11 +228,12 @@ title: Home
 </section>
 
     <section id="contact">
-      <h2>Want to get in touch?</h2>
-    
-      <p>
-        Contact me by email or connect with me on LinkedIn.
-      </p>
+    <h2>Want to get in touch?</h2>
+  
+    <p>
+      Interested in my work, have a question, or want to discuss potential
+      collaborations? Feel free to contact me by email or connect with me on LinkedIn.
+    </p>
     
     <div class="contact-buttons">
       <a class="contact-button" href="mailto:philipp.g.heilmann@agrar.uni-giessen.de" aria-label="Send email to Philipp Heilmann">
