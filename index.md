@@ -18,7 +18,7 @@ title: Home
 
     <nav class="section-nav">
       <a href="#research-profile">Research profile</a>
-      <a href="#education">Education</a>
+      <a href="#academic-career">Academic career</a>      
       <a href="#publications">Publications</a>
       <a href="#conference-contributions">Conference contributions</a>
       <a href="#contact">Contact</a>
@@ -48,17 +48,17 @@ title: Home
       </p>
     </section>
 
-<section id="academic-career">
-  <h2>Academic career</h2>
-
-  <div class="timeline">
-    <div class="timeline-item">
-      <span class="timeline-year">2025–2027</span>
-      <span class="timeline-text">
-        <strong>Postdoctoral Research Associate</strong><br>
-        Institute of Agronomy and Plant Breeding II, Justus Liebig University Giessen
-      </span>
-    </div>
+    <section id="academic-career">
+      <h2>Academic career</h2>
+    
+      <div class="timeline">
+        <div class="timeline-item">
+          <span class="timeline-year">2025–2027</span>
+          <span class="timeline-text">
+            <strong>Postdoctoral Research Associate</strong><br>
+            Institute of Agronomy and Plant Breeding II, Justus Liebig University Giessen
+          </span>
+        </div>
 
     <div class="timeline-item">
       <span class="timeline-year">2019–2025</span>
