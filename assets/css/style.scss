@@ -234,7 +234,8 @@ section p + p {
   margin: 1.5rem 0 2rem;
 }
 
-.contact-button {
+.contact-button,
+.contact-button:visited {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -248,16 +249,12 @@ section p + p {
   font-weight: 600;
   line-height: 1;
   width: fit-content;
-  transition: transform 0.15s ease, opacity 0.15s ease;
 }
 
 .contact-button:hover {
+  color: #ffffff;
   opacity: 0.85;
   transform: translateY(-1px);
-}
-
-.contact-button:visited {
-  color: #ffffff;
 }
 
 .contact-icon {
