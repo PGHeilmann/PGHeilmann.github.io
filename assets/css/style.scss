@@ -268,3 +268,54 @@ section p + p {
   margin-top: 2rem;
   color: var(--text-muted);
 }
+
+/* Conference contributions */
+
+.section-intro {
+  margin-bottom: 2rem;
+  color: var(--text-muted);
+}
+
+.conference-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.conference-item {
+  display: grid;
+  grid-template-columns: 100px minmax(0, 1fr);
+  column-gap: 1.5rem;
+  align-items: start;
+  padding-bottom: 1.6rem;
+  margin-bottom: 1.6rem;
+  border-bottom: 1px solid rgba(0, 105, 179, 0.10);
+}
+
+.conference-item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.conference-date {
+  font-weight: 700;
+  color: var(--sidebar-blue);
+}
+
+.conference-text {
+  line-height: 1.6;
+}
+
+.presentation-type {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 0.4rem;
+  min-width: 1.55rem;
+  height: 1.55rem;
+  border-radius: 999px;
+  background: rgba(0, 105, 179, 0.10);
+  color: var(--sidebar-blue);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
