@@ -56,40 +56,45 @@ title: Home
           <span class="timeline-year">2025–2027</span>
           <span class="timeline-text">
             <strong>Postdoctoral Research Associate</strong><br>
-            Institute of Agronomy and Plant Breeding II, Justus Liebig University Giessen
+            Institute of Agronomy and Plant Breeding II<br>
+            Justus Liebig University Giessen
           </span>
         </div>
-
-    <div class="timeline-item">
-      <span class="timeline-year">2019–2025</span>
-      <span class="timeline-text">
-        <strong>Doctoral Researcher</strong><br>
-        Justus Liebig University Giessen
-      </span>
-    </div>
-
-    <div class="timeline-item">
-      <span class="timeline-year">2016–2019</span>
-      <span class="timeline-text">
-        <strong>M.Sc. Environmental Science</strong><br>
-        Justus Liebig University Giessen
-      </span>
-    </div>
-
-    <div class="timeline-item">
-      <span class="timeline-year">2012–2016</span>
-      <span class="timeline-text">
-        <strong>B.Sc. Environmental Management</strong>
-      </span>
-    </div>
-  </div>
-
-  <h3>Award</h3>
-  <p>
-    21st Kurt von Rümker Prize, awarded by the GPZ to an early-career researcher
-    for the best PhD presentation.
-  </p>
-</section>
+    
+        <div class="timeline-item">
+          <span class="timeline-year">2019–2025</span>
+          <span class="timeline-text">
+            <strong>Doctoral Researcher</strong><br>
+            Institute of Agronomy and Plant Breeding II<br>
+            Justus Liebig University Giessen
+          </span>
+        </div>
+    
+        <div class="timeline-item">
+          <span class="timeline-year">2016–2019</span>
+          <span class="timeline-text">
+            <strong>M.Sc. Environmental Science</strong><br>
+            Institute of Agronomy and Plant Breeding II<br>
+            Justus Liebig University Giessen
+          </span>
+        </div>
+    
+        <div class="timeline-item">
+          <span class="timeline-year">2012–2016</span>
+          <span class="timeline-text">
+            <strong>B.Sc. Environmental Management</strong><br>
+            Institute for Landscape Ecology and Resources Management<br>
+            Justus Liebig University Giessen
+          </span>
+        </div>
+      </div>
+    
+      <h3>Award</h3>
+      <p>
+        21st Kurt von Rümker Prize, awarded by the GPZ to an early-career researcher
+        for the best PhD presentation.
+      </p>
+    </section>
 
     <section id="publications">
       <h2>Publications</h2>
