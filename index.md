@@ -93,6 +93,7 @@ title: Home
       <p>
         21st Kurt von Rümker Prize, awarded by the GPZ to an early-career researcher
         for the best PhD presentation.
+        <a href="https://www.julius-kuehn.de/aktuelles/aktuell/n/8-quedlinburger-pflanzenzuechtungstage-mit-21-kurt-von-ruemker-vortraegen-inklusive-preis-fuer-den-besten-vortrag-eines-nachwuchsforschenden" target="_blank" rel="noopener noreferrer">(Link)</a>
       </p>
     </section>
 
