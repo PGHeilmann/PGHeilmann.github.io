@@ -8,7 +8,7 @@ title: Home
   <aside class="sidebar">
     <div class="profile">
       <div class="profile-picture">
-        <span>Photo</span>
+        <img src="{{ '/assets/portrait.jpg' | relative_url }}" alt="Philipp Heilmann">
       </div>
 
       <h1>Philipp Heilmann</h1>
